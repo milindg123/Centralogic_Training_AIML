@@ -1,0 +1,4 @@
+PyMuPDF
+Pillow
+fastapi 
+uvicorn
